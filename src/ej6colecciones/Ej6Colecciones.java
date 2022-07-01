@@ -122,7 +122,7 @@ public class Ej6Colecciones {
             }
         }
 
-        System.out.println("HASTA LUEGO :)");
+        System.out.println("HASTA LUEGuitO :)");
 
     }
 }
